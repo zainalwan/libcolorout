@@ -12,7 +12,7 @@ Color Out is C++ library to colorize the standart output of your program. It
 also provides feature to style the text, such as bold and underline.
 
 ## Features
-![Result Preview](/assets/img/Screenshot_141221_135958_edited.png)
+![Result Preview](/assets/img/Screenshot_141221_144054_edited.png)
 
 Color Out provides many foreground and background colors and the styles of the
 text (bold, underline, etc.). You could see in the header file (`ColorOut.h`) at
