@@ -10,7 +10,7 @@ int main() {
     clout.underline().bold().print("This is an underlined bold text.\n");
     clout.foreground().red().print("This is a red text.\n");
     clout.foreground().blue().background().red()
-        .print("This is a red text with red background.\n");
+        .print("This is a blue text with red background.\n");
     clout.bold().background().blue().foreground().black()
         .print("This is a bold text in blue background.\n");
 
