@@ -13,6 +13,7 @@ also provides feature to style the text, such as bold and underline.
 
 ## Features
 ![Result Preview](/assets/img/Screenshot_141221_135958_edited.png)
+
 Color Out provides many foreground and background colors and the styles of the
 text (bold, underline, etc.). You could see in the header file (`ColorOut.h`) at
 the public method.
